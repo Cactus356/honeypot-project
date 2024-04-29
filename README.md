@@ -1,7 +1,7 @@
 # Let's Make A Honeypot
 This is going to serve as a blog/documentation/notes/instructions and whatever else related to my latest efforts getting a honeypot up and running. I also plan on sharing statistics here like usernames, passwords, attacking IPs, and more. Current thought is to do that monthly and then at the end of the year or maybe every 6 months, provide log data of all the attacks.
 
-This is a project I've had on my mind for a few reasons. First of all, I think it'd just be a fun project - This is pretty much how my everything else in my homelab started, so why not add this to the list. Using the statistics to see the top attacking countries, top tried passwords, etc. I also plan on using some of these statistics to add to my existing firewall blocklists like attacking IPs and GeoIP data.
+This is a project I've had on my mind for a few reasons. First of all, I think it'd just be a fun project - This is pretty much how my everything else in my homelab started, so why not add this to the list. I'm interested to see where most attacks come from and what credentials they try. I also plan on using the IPs and GeoIP data to add to my existing firewall blocklists.
 
 So what do we need? At base level, an SSH honeypot, some form of logging, and a VPS to run it on. This first honeypot is going to be publicly available, so I really don't want something like that running in my home Proxmox server.
 
