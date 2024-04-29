@@ -264,7 +264,7 @@ Here is an example output from a completed daily SSH log:
 "2024-04-24","211.252.xxx.xx",,"SSH","root","toor","SSH-2.0-libssh2_1.9.0"
 "2024-04-24","211.252.xxx.xx",,"SSH","root","qwerty","SSH-2.0-libssh2_1.9.0"
 ```
-So now within each monthly folder (ie 04-24), there will be 4 log files for each day - The full unfiltered, SSH, TCP, and HTTP. We'll combine the daily lists for SSH and TCP into their own all-days list for that month. I'm choosing to omit HTTP because some of the "attacks" are just content scans and I don't feel like filtering those. The SSH list is obvious attacks and the TCP list only contains those in which a command was used, so those should be positive attacks as well. We'll use this all-days list to get both our monthly stats for SSH and TCP, and then build our master list of attacking IPs from both the SSH and TCP list. Again, code is probably a mess but it works.
+So now within each monthly folder (ie 04-2024), there will be 4 log files for each day - The full unfiltered, SSH, TCP, and HTTP. We'll combine the daily lists for SSH and TCP into their own all-days list for that month. I'm choosing to omit HTTP because some of the "attacks" are just content scans and I don't feel like filtering those. The SSH list is obvious attacks and the TCP list only contains those in which a command was used, so those should be positive attacks as well. We'll use this all-days list to get both our monthly stats for SSH and TCP, and then build our master list of attacking IPs from both the SSH and TCP list. Again, code is probably a mess but it works.
 ```
 # ssh-monthly-combine-and-report.sh
 #! /bin/bash  
@@ -388,9 +388,14 @@ Now we need to add all of the scripts we created to our Cron.
 30 0    1 * *   root    /home/user/scripts-main/tcp-monthly-combine-and-report.sh
 0 1     1 * *   root    /home/user/scripts-main/attacking-ips-SSH-TCP.sh
 ```
+Remember, any script you're running via Cron as root needs to have appropriate perms. I keep all my scripts in a folder, so all I need to do is:
+```
+sudo chown root:root *.sh
+sudo chmod 744 *.sh
+```
 As you can see, the dailies (log import, SSH/TCP/HTTP filter) are all run during 2000 - This is due to the Beelzebub server being in UTC, while my logging server is in my local timezone. The log is actually for the previous day in UTC, but the logging server thinks it's the current day. You should adjust this if your timezones are set differently, either in the scripts or when Cron runs them.
 
 ### Conclusion
-Oof, that was a lot of typing, but I think I'm done! I'll upload the attack logs to this repo, inlcuind the results from the scripts created above.
+Oof, that was a lot of typing, but I think I'm done! I'll upload the attack logs to this repo, which will also include the results from the scripts created above.
 
-Last updated: 04/24/2024
+Last updated: 04/26/2024
