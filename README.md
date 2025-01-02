@@ -1,3 +1,16 @@
+## 2024 stats are in
+I've compiled all the logs from March to December of 2024 ([View here](https://github.com/Cactus356/honeypot-project/blob/main/logs/2024/yearly-stats.txt)). This has been my first "year" running the honeypot. It's been a fun project, changing scripts, VPN configs, not paying attention and having it break when I switch ISP's and having to manually run a bunch of sorting scripts. The usual.
+
+Most of these stats you could have probbaly guessed, but it's still good to reaffirm security measures. Right off the bat:
+- If you can block by GeoIP - Block China. 45% of my over 3 million SSH login attempts were from Chinese IP addresses. By blocking one country, we've eliminated almost half of the threats.
+- Disable the root account from logging in via SSH. 64% of my over 3 million SSH login attempts tried using the root account.
+- Passwords. 123456 came in at number one, and it's because it works. Do better. Four words from the EFF large list is over 3.5 quadrillion combinations. Eight random characters isn't even half that and it's harder to remember.
+
+Not everyone has a firewall with GeoIP blocking, but account names/restrictions and passwords are ideas that are so unbelievably simple. Disable root and use 4 words instead of 1qaz@WSX. Just do it.
+
+Thanks for reading.
+
+
 # Let's Make A Honeypot
 This is going to serve as a blog/documentation/notes/instructions and whatever else related to my latest efforts getting a honeypot up and running. I also plan on sharing statistics here like usernames, passwords, attacking IPs, and more. Current thought is to do that monthly and then at the end of the year or maybe every 6 months, provide log data of all the attacks.
 
