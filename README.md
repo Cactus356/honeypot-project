@@ -1,3 +1,7 @@
+## 2025 stats are in
+First full year, 365 days, of running. All logs have been compiled and another top stats file has been created ([View here](https://github.com/Cactus356/honeypot-project/blob/main/logs/2025/yearly-stats.txt)). Pretty much all the same lessons as in the 2024 review. Be smart, stay safe.
+
+
 ## 2024 stats are in
 I've compiled all the logs from March to December of 2024 ([View here](https://github.com/Cactus356/honeypot-project/blob/main/logs/2024/yearly-stats.txt)). This has been my first "year" running the honeypot. It's been a fun project, changing scripts, VPN configs, not paying attention and having it break when I switch ISP's and having to manually run a bunch of sorting scripts. The usual.
 
