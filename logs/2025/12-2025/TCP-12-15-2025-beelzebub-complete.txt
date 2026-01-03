@@ -1,0 +1,26 @@
+"2025-12-15","104.248.129.10","Germany","TCP","GET / HTTP/1.1\r\nHost: 108.174.54.75\r\nConnection: keep-alive\r\nsec-ch-ua: \"Chromium\";v=\"142\"
+"2025-12-15","104.248.129.10","Germany","TCP","GET /favicon.ico HTTP/1.1\r\nHost: 108.174.54.75\r\nConnection: keep-alive\r\nsec-ch-ua: \"Chromium\";v=\"142\"
+"2025-12-15","3.134.148.59","United States","TCP","\n"
+"2025-12-15","3.134.148.59","United States","TCP","GET / HTTP/1.1\r\nHost: 108.174.54.75:3306\r\nUser-Agent: cypex.ai/scanning Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36\r\nAccept: */*\r\nAccept-Encoding: gzip\r\n\r\n"
+"2025-12-15","3.134.148.59","United States","TCP","GET / HTTP/1.1\r\nHost: 108.174.54.75:3306\r\nUser-Agent: cypex.ai/scanning Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36\r\nAccept: */*\r\nAccept-Encoding: gzip\r\n\r\n"
+"2025-12-15","3.134.148.59","United States","TCP","\u0016\u0003\u0001\u0000{\u0001\u0000\u0000w\u0003\u0003Z\ufffd\ufffdo3\u0002e0g\ufffdL\u0019\u001c\u001e:\ufffd\u000ey\ufffd\ufffd
+"2025-12-15","3.134.148.59","United States","TCP","SSH-2.0-Go\r\n"
+"2025-12-15","3.134.148.59","United States","TCP","\u0016\u0003\u0001\u0000{\u0001\u0000\u0000w\u0003\u0003\"\ufffd5\u000bG\ufffdl\ufffdzOĬ\ufffd\ufffd;\ufffd\nb\u000c^\ufffdm
+"2025-12-15","35.216.189.16","Switzerland","TCP","\u0016\u0003\u0001\u0000\ufffd\u0001\u0000\u0000\ufffd\u0003\u0003o\u0018\ufffd\ufffd}eR\u0010\ufffd\u0007\ufffdE\ufffdfؒw\ufffd\ufffd\ufffd#q\u001f\ufffd\u0010\ufffd\u0007\ufffd\ufffd
+"2025-12-15","35.216.189.16","Switzerland","TCP","GET / HTTP/1.1\r\nHost: \r\n\r\nHELP\r\nEHLO leakix.net\r\n?\r\n\r\n"
+"2025-12-15","162.216.150.239","United States","TCP","GET / HTTP/1.0\r\n\r\n"
+"2025-12-15","162.216.150.239","United States","TCP","\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001c\ufffd\ufffdrandom1random2random3random4\u0000\u0000\u000c\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\ufffd\u0001\u0000\u00000\u0000\r\u0000
+"2025-12-15","162.216.150.239","United States","TCP","\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001c\ufffd\ufffdrandom1random2random3random4\u0000\u0000\u000c\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\ufffd\u0001\u0000\u00000\u0000\r\u0000
+"2025-12-15","88.214.25.121","Germany","TCP","\u0003\u0000\u0000*%\ufffd\u0000\u0000\u0000\u0000\u0000Cookie: mstshash=Test\r\n\u0001\u0000\u0008\u0000\u0003\u0000\u0000\u0000"
+"2025-12-15","88.214.25.121","Germany","TCP","\u0003\u0000\u0000*%\ufffd\u0000\u0000\u0000\u0000\u0000Cookie: mstshash=Test\r\n\u0001\u0000\u0008\u0000\u0003\u0000\u0000\u0000"
+"2025-12-15","45.227.254.152","Panama","TCP","\u0003\u0000\u0000*%\ufffd\u0000\u0000\u0000\u0000\u0000Cookie: mstshash=Test\r\n\u0001\u0000\u0008\u0000\u0003\u0000\u0000\u0000"
+"2025-12-15","45.227.254.152","Panama","TCP","\u0003\u0000\u0000*%\ufffd\u0000\u0000\u0000\u0000\u0000Cookie: mstshash=Test\r\n\u0001\u0000\u0008\u0000\u0003\u0000\u0000\u0000"
+"2025-12-15","88.214.25.124","Germany","TCP","\u0003\u0000\u0000*%\ufffd\u0000\u0000\u0000\u0000\u0000Cookie: mstshash=Test\r\n\u0001\u0000\u0008\u0000\u0003\u0000\u0000\u0000"
+"2025-12-15","88.214.25.124","Germany","TCP","\u0003\u0000\u0000*%\ufffd\u0000\u0000\u0000\u0000\u0000Cookie: mstshash=Test\r\n\u0001\u0000\u0008\u0000\u0003\u0000\u0000\u0000"
+"2025-12-15","40.124.173.16","United States","TCP","\r\n"
+"2025-12-15","81.29.142.100","Russia","TCP"," \u0000\u0000\u0001\u0000\u0008\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+"2025-12-15","81.29.142.100","Russia","TCP","\u0016\u0003\u0001\u0005\ufffd\u0001\u0000\u0005\ufffd\u0003\u0003\ufffdz\ufffdpS\ufffdv\ufffd\ufffd?Py_\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdPWA\u0011jԹ\u0016.\ufffd#\ufffd\u000e \ufffd\ufffd\ufffd\ufffdk\ufffd\ufffd\u0003\ufffd\ufffd\ufffd
+"2025-12-15","81.29.142.100","Russia","TCP","GET / HTTP/1.1\r\nHost: 108.174.54.75:3306\r\nAccept: text/html
+"2025-12-15","35.203.210.169","United Kingdom","TCP","GET / HTTP/1.0\r\n\r\n"
+"2025-12-15","35.203.210.169","United Kingdom","TCP","\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001c\ufffd\ufffdrandom1random2random3random4\u0000\u0000\u000c\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\ufffd\u0001\u0000\u00000\u0000\r\u0000
+"2025-12-15","20.64.105.53","United States","TCP","MGLNDD_108.174.54.75_3306\n"
