@@ -1,3 +1,6 @@
+## 2026
+Switched VPS providers in March so there was a short day or two, but was able to easily get up and running again thanks to my own documentation.
+
 ## 2025 stats are in
 First full year, 365 days, of running. All logs have been compiled and another top stats file has been created ([View here](https://github.com/Cactus356/honeypot-project/blob/main/logs/2025/yearly-stats.txt)). Pretty much all the same lessons as in the 2024 review. Be smart, stay safe.
 
