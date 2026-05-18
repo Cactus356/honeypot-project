@@ -1,0 +1,36 @@
+
+Total SSH attacks: 0
+
+------------------------------
+
+Unique attacking IPs: 0
+
+------------------------------
+
+Top 10 attack dates: 
+
+
+------------------------------
+
+Top 10 attacking countries: 
+
+
+------------------------------
+
+Top 10 tried usernames: 
+
+
+------------------------------
+
+Top 50 tried passwords: 
+
+
+------------------------------
+
+Top 100 attacking IPs: 
+
+
+------------------------------
+
+Top 5 clients used: 
+
