@@ -1,0 +1,117 @@
+"2026-09-13","142.93.134.191","The Netherlands","TCP","GET / HTTP/1.1\r\nHost: 107.173.168.135\r\nConnection: keep-alive\r\nsec-ch-ua: \"Chromium\";v=\"142\"
+"2026-09-13","142.93.134.191","The Netherlands","TCP","GET /favicon.ico HTTP/1.1\r\nHost: 107.173.168.135\r\nConnection: keep-alive\r\nsec-ch-ua: \"Chromium\";v=\"142\"
+"2026-09-13","3.129.187.38","United States","TCP","GET / HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36\r\nAccept: */*\r\nAccept-Encoding: gzip\r\n\r\n"
+"2026-09-13","3.129.187.38","United States","TCP","\n"
+"2026-09-13","3.129.187.38","United States","TCP","GET / HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: visionheight.com/scan Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36\r\nAccept: */*\r\nAccept-Encoding: gzip\r\n\r\n"
+"2026-09-13","3.129.187.38","United States","TCP","\u0016\u0003\u0001\u0001\u0000\u0001\u0000\u0000\ufffd\u0003\u0003pD'\ufffdM\ufffd$\u0006\ufffd(:D\ufffd\ufffdqPx#+Wz\ufffdA\ufffde:\u001e\u0017\ufffd6\u0005\b \ufffd٭V\ufffd\ufffde\ufffd\ufffd)UeXU\ufffd\ufffd\ufffd[\u001f\u001b \u0015\u0011\ufffd\ufffd\u0010\u001cD\ufffd#?\u0015\u0000\u0026̨̩\ufffd/\ufffd0\ufffd+\ufffd
+"2026-09-13","3.129.187.38","United States","TCP","\u0016\u0003\u0001\u0000\ufffd\u0001\u0000\u0000\ufffd\u0003\u0003\ufffd\ufffdI\ufffd\ufffd٪-Լ\ufffd\ufffd\ufffd4u?\ufffd\u0011\u001db\u003e\u003e\ufffd\ufffd9'\ufffd8\ufffd@\ufffd\ufffd rE\u001esݡ\ufffd\ufffd\ufffd^ι)A+\u0018\ufffd\n\ufffd\ufffdV~#PS(\"[;\ufffdQt\u0000\u0026̨̩\ufffd/\ufffd0\ufffd+\ufffd
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0016\u0003\u0001\u0005\ufffd\u0001\u0000\u0005\ufffd\u0003\u0003\ufffd\u0012\ufffd\ufffd\ufffdD\ufffd\ufffd\ufffd%\ufffd\ufffd\ufffd+7(\ufffd\ufffdl\u000f\u0018\u000fHo!p\ufffd\fi\ufffd{ H\u001aj\ufffd\ufffd\ufffd\\\ufffd\"V\ufffd3d\ufffd?v\ufffd\ufffd.\u0019;.\ufffd\ufffdӬ\u001d \ufffd`\ufffd\ufffd\u00002\ufffd+\ufffd/\ufffd
+"2026-09-13","34.77.248.56","Belgium","TCP",";\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\ufffd\u0007\u0000\u0000\u0000\u0000\u0000\u0000admin.$cmd\u0000\u0000\u0000\u0000\u0000\ufffd\ufffd\ufffd\ufffd\u0014\u0000\u0000\u0000\u0001hello\u0000\u0000\u0000\u0000\u0000\u0000\u0000\ufffd?\u0000"
+"2026-09-13","34.77.248.56","Belgium","TCP","GET / HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
+"2026-09-13","34.77.248.56","Belgium","TCP","\ufffd\ufffd\ufffdbqNR\ufffd\u0007\ufffd\ufffd*\u0006m\ufffdT\ufffd\ufffd\ufffd\u001ai\u000bU\ufffd\ufffd\u0016\u001c\ufffdI\ufffd\ufffd\ufffdY3\ufffd\ufffdͶ\"\ufffdV\ufffdR\ufffd\ufffd\f\ufffd\ufffd\ufffd\ufffd/\ufffdΰ\ufffdqt\ufffd\ufffd\ufffdf\ufffdD\ufffd"
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0000\u001e\ufffd\ufffd\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003"
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0003\u0000\u0000\u0013\u000e\ufffd\u0000\u0000\u0000\u0000\u0000\u0001\u0000\b\u0000\u000b\u0000\u0000\u0000"
+"2026-09-13","34.77.248.56","Belgium","TCP","Not a command \r\n"
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0012\u0001\u0000X\u0000\u0000\u0001\u0000\u0000\u0000\u001f\u0000\u0006\u0001\u0000%\u0000\u0001\u0002\u0000\u0026\u0000\u0001\u0003\u0000'\u0000\u0004\u0004\u0000+\u0000\u0001\u0005\u0000
+"2026-09-13","34.77.248.56","Belgium","TCP","0:\u0002\u0004}\ufffd6\u0017`2\u0002\u0001\u0003\u0004\u0017cn=frwiskpnxhkzlddqrgqx\ufffd\u0014frwiskpnxhkzlddqrgqx"
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0000\u0000\u0000C\u0000\u0012\u0000\u0000\u001e3\ufffd\ufffd\u0000\u001fconsumer-Offset Explorer 2.2-18\u0000\u0012apache-kafka-java\u00062.4.0\u0000"
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0000\u0000\u0000#\u0000\u0003\u0000\u0000\u001e3\ufffd\ufffd\u0000\radminclient-5\u0000\u0000\u0000\u0001\u0000\u0006IoJXjx"
+"2026-09-13","34.77.248.56","Belgium","TCP","\ufffd\u0000\u0000(r\ufffd\u001d\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0001\ufffd\ufffd\u0000\u0001\ufffd|\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0000\u0000\u0000f\ufffdSMB@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013333333333333337\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0002"
+"2026-09-13","34.77.248.56","Belgium","TCP","\ufffdd\u0000\u0000\u0000\u0006\u0001\u0002\u0000\u0000\u0000\u0001"
+"2026-09-13","34.77.248.56","Belgium","TCP","*1\r\n$4\r\nPING\r\n"
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0010\u0011\u0000\u0004MQTT\u0003\u0002\u0000\u003c\u0000\u0005AAAAA"
+"2026-09-13","34.77.248.56","Belgium","TCP","JRMI\u0000\u0002K"
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0010\u0012\u0000\u0004MQTT\u0005\u0002\u0000\u003c\u0000\u0000\u0005AAAAA"
+"2026-09-13","34.77.248.56","Belgium","TCP","@RSYTCD: 29\n"
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0000\ufffd\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u003c\u0001
+"2026-09-13","34.77.248.56","Belgium","TCP","\u0000\u0000\u0000T\u0000\u0003\u0000\u0000user\u0000postgres\u0000database\u0000postgres\u0000application_name\u0000psql\u0000client_encoding\u0000UTF8\u0000\u0000"
+"2026-09-13","34.77.248.56","Belgium","TCP","OPTIONS rtsp://example.com RTSP/1.0\r\nCseq: 5299\r\n\r\n"
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0016\u0003\u0001\u0005\ufffd\u0001\u0000\u0005\ufffd\u0003\u0003\ufffd\ufffdr졮\ufffd\u0004ٴL\f\ufffd4
+"2026-09-13","35.195.254.79","Belgium","TCP",";\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\ufffd\u0007\u0000\u0000\u0000\u0000\u0000\u0000admin.$cmd\u0000\u0000\u0000\u0000\u0000\ufffd\ufffd\ufffd\ufffd\u0014\u0000\u0000\u0000\u0001hello\u0000\u0000\u0000\u0000\u0000\u0000\u0000\ufffd?\u0000"
+"2026-09-13","35.195.254.79","Belgium","TCP","GET / HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
+"2026-09-13","35.195.254.79","Belgium","TCP","0Xf\ufffd\ufffdC\ufffd\ufffd
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0000\u001ef\u001a\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003"
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0003\u0000\u0000\u0013\u000e\ufffd\u0000\u0000\u0000\u0000\u0000\u0001\u0000\b\u0000\u000b\u0000\u0000\u0000"
+"2026-09-13","35.195.254.79","Belgium","TCP","Not a command \r\n"
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0012\u0001\u0000X\u0000\u0000\u0001\u0000\u0000\u0000\u001f\u0000\u0006\u0001\u0000%\u0000\u0001\u0002\u0000\u0026\u0000\u0001\u0003\u0000'\u0000\u0004\u0004\u0000+\u0000\u0001\u0005\u0000
+"2026-09-13","35.195.254.79","Belgium","TCP","0:\u0002\u0004s\ufffd\ufffd+`2\u0002\u0001\u0003\u0004\u0017cn=edbvaqgjmfwycbgwjvht\ufffd\u0014edbvaqgjmfwycbgwjvht"
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0000\u0000\u0000C\u0000\u0012\u0000\u0000\u001e3\ufffd\ufffd\u0000\u001fconsumer-Offset Explorer 2.2-18\u0000\u0012apache-kafka-java\u00062.4.0\u0000"
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0000\u0000\u0000#\u0000\u0003\u0000\u0000\u001e3\ufffd\ufffd\u0000\radminclient-5\u0000\u0000\u0000\u0001\u0000\u0006q1ZNl5"
+"2026-09-13","35.195.254.79","Belgium","TCP","\ufffd\u0000\u0000(r\ufffd\u001d\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0001\ufffd\ufffd\u0000\u0001\ufffd|\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0000\u0000\u0000f\ufffdSMB@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013333333333333337\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0002"
+"2026-09-13","35.195.254.79","Belgium","TCP","\ufffde\u0000\u0000\u0000\u0006\u0001\u0002\u0000\u0000\u0000\u0001"
+"2026-09-13","35.195.254.79","Belgium","TCP","*1\r\n$4\r\nPING\r\n"
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0010\u0011\u0000\u0004MQTT\u0003\u0002\u0000\u003c\u0000\u0005AAAAA"
+"2026-09-13","35.195.254.79","Belgium","TCP","JRMI\u0000\u0002K"
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0010\u0012\u0000\u0004MQTT\u0005\u0002\u0000\u003c\u0000\u0000\u0005AAAAA"
+"2026-09-13","35.195.254.79","Belgium","TCP","@RSYTCD: 29\n"
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0000\ufffd\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u003c\u0001
+"2026-09-13","35.195.254.79","Belgium","TCP","\u0000\u0000\u0000T\u0000\u0003\u0000\u0000user\u0000postgres\u0000database\u0000postgres\u0000application_name\u0000psql\u0000client_encoding\u0000UTF8\u0000\u0000"
+"2026-09-13","35.195.254.79","Belgium","TCP","OPTIONS rtsp://example.com RTSP/1.0\r\nCseq: 4182\r\n\r\n"
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0016\u0003\u0001\u0005\ufffd\u0001\u0000\u0005\ufffd\u0003\u0003\ufffd\ufffdsg\ufffd\ufffd\ufffd4\ufffd\u0019g\ufffd$\ufffd\ufffdp\ufffd\u0002|i\u00186\ufffd\u0019\ufffd\ufffd~ɪ\u001ehk \ufffd;\ufffd%[\b\ufffd\ufffdc\ufffd\ufffd\u0006\u0017I\ufffd\ufffdѬ!\ufffd\ufffd\n\ufffdT\ufffd\ufffd)\ufffdŁ)/\u00002\ufffd+\ufffd/\ufffd
+"2026-09-13","207.175.217.105","Belgium","TCP",";\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\ufffd\u0007\u0000\u0000\u0000\u0000\u0000\u0000admin.$cmd\u0000\u0000\u0000\u0000\u0000\ufffd\ufffd\ufffd\ufffd\u0014\u0000\u0000\u0000\u0001hello\u0000\u0000\u0000\u0000\u0000\u0000\u0000\ufffd?\u0000"
+"2026-09-13","207.175.217.105","Belgium","TCP","GET / HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML
+"2026-09-13","207.175.217.105","Belgium","TCP","\ufffd\ufffd!\ufffdg/\ufffdg??O\ufffdY\ufffd\r\u0010\ufffd\ufffd\ufffdnjW\u00072\u0001\ufffd\ufffd\ufffd\ufffd\b_\ufffd\ufffdn\u003cA\ufffd|\ufffd\ufffd\u000f/\ufffdB\u0007X\ufffd\ufffd9l\ufffd\u0010\ufffd+R\ufffdV\u000bE\ufffd\ufffd\ufffdq\u000f"
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0000\u001e\ufffd\u0018\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003"
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0003\u0000\u0000\u0013\u000e\ufffd\u0000\u0000\u0000\u0000\u0000\u0001\u0000\b\u0000\u000b\u0000\u0000\u0000"
+"2026-09-13","207.175.217.105","Belgium","TCP","Not a command \r\n"
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0012\u0001\u0000X\u0000\u0000\u0001\u0000\u0000\u0000\u001f\u0000\u0006\u0001\u0000%\u0000\u0001\u0002\u0000\u0026\u0000\u0001\u0003\u0000'\u0000\u0004\u0004\u0000+\u0000\u0001\u0005\u0000
+"2026-09-13","207.175.217.105","Belgium","TCP","0:\u0002\u0004x\u001e\ufffd\ufffd`2\u0002\u0001\u0003\u0004\u0017cn=ljvrqldowkttfosewase\ufffd\u0014ljvrqldowkttfosewase"
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0000\u0000\u0000C\u0000\u0012\u0000\u0000\u001e3\ufffd\ufffd\u0000\u001fconsumer-Offset Explorer 2.2-18\u0000\u0012apache-kafka-java\u00062.4.0\u0000"
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0000\u0000\u0000#\u0000\u0003\u0000\u0000\u001e3\ufffd\ufffd\u0000\radminclient-5\u0000\u0000\u0000\u0001\u0000\u0006OWkpas"
+"2026-09-13","207.175.217.105","Belgium","TCP","\ufffd\u0000\u0000(r\ufffd\u001d\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0001\ufffd\ufffd\u0000\u0001\ufffd|\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0000\u0000\u0000f\ufffdSMB@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000$\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0013333333333333337\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0002"
+"2026-09-13","207.175.217.105","Belgium","TCP","gT\u0000\u0000\u0000\u0006\u0001\u0002\u0000\u0000\u0000\u0001"
+"2026-09-13","207.175.217.105","Belgium","TCP","*1\r\n$4\r\nPING\r\n"
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0010\u0011\u0000\u0004MQTT\u0003\u0002\u0000\u003c\u0000\u0005AAAAA"
+"2026-09-13","207.175.217.105","Belgium","TCP","JRMI\u0000\u0002K"
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0010\u0012\u0000\u0004MQTT\u0005\u0002\u0000\u003c\u0000\u0000\u0005AAAAA"
+"2026-09-13","207.175.217.105","Belgium","TCP","@RSYTCD: 29\n"
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0000\ufffd\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u003c\u0001
+"2026-09-13","207.175.217.105","Belgium","TCP","\u0000\u0000\u0000T\u0000\u0003\u0000\u0000user\u0000postgres\u0000database\u0000postgres\u0000application_name\u0000psql\u0000client_encoding\u0000UTF8\u0000\u0000"
+"2026-09-13","207.175.217.105","Belgium","TCP","OPTIONS rtsp://example.com RTSP/1.0\r\nCseq: 7073\r\n\r\n"
+"2026-09-13","89.187.173.180","United States","TCP","POST /?rest_route=/batch/v1 HTTP/1.1\r\nAccept-Encoding: identity\r\nContent-Length: 745\r\nHost: 107.173.168.135:3306\r\nContent-Type: application/json\r\nUser-Agent: wp2shell\r\nConnection: close\r\n\r\n"
+"2026-09-13","216.180.246.136","United States","TCP","\u0016\u0003\u0001\u0000\ufffd\u0001\u0000\u0000\ufffd\u0003\u0003\ufffd!\ufffd
+"2026-09-13","216.180.246.136","United States","TCP","GET / HTTP/1.0\r\nHost: probe\r\n\r\n"
+"2026-09-13","152.32.190.84","Hong Kong","TCP","\u000f\u0000\u0000\u0000G\ufffd0~\ufffd\u0001\u0000\u0000\ufffd\u0001\ufffd"
+"2026-09-13","152.32.190.84","Hong Kong","TCP","\u0016\u0003\u0001\u0001\"\u0001\u0000\u0001\u001e\u0003\u0003\u001a\ufffd{\ufffdX\ufffd\u001d\ufffd\ufffd\ufffd$\ufffdo \ufffdꡎV\ufffdK\ufffd\u000e\ufffd\ufffd\ufffd*\ufffdɧ\ufffd! o\ufffdܩ\ufffd{h\ufffdA\u0000.\u003e\ufffd\ufffd\ufffdH\ufffd\ufffd\u0013\ufffdlv\ufffd\ufffd\ufffd\ufffdK\ufffd\ufffdV\ufffd\ufffd\u0000\u0026\ufffd+\ufffd/\ufffd
+"2026-09-13","152.32.190.84","Hong Kong","TCP","GET / HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nAccept: */*\r\n\r\n"
+"2026-09-13","152.32.190.84","Hong Kong","TCP","USER anonymous\r\n"
+"2026-09-13","35.203.210.65","United Kingdom","TCP","GET / HTTP/1.0\r\n\r\n"
+"2026-09-13","35.203.210.65","United Kingdom","TCP","\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001c\ufffd\ufffdrandom1random2random3random4\u0000\u0000\f\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\ufffd\u0001\u0000\u00000\u0000\r\u0000
+"2026-09-13","68.183.100.120","United States","TCP","\r\n\r\n"
+"2026-09-13","68.183.100.120","United States","TCP","GET / HTTP/1.0\r\n\r\n"
+"2026-09-13","68.183.100.120","United States","TCP","OPTIONS / HTTP/1.0\r\n\r\n"
+"2026-09-13","68.183.100.120","United States","TCP","OPTIONS / RTSP/1.0\r\n\r\n"
+"2026-09-13","68.183.100.120","United States","TCP","\ufffd\u0000\u0000(r\ufffd\u001d\u0013\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0001\ufffd\ufffd\u0000\u0001\ufffd|\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+"2026-09-13","68.183.100.120","United States","TCP","\u0000\u001e\u0000\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003"
+"2026-09-13","68.183.100.120","United States","TCP","HELP\r\n"
+"2026-09-13","68.183.100.120","United States","TCP","\u0016\u0003\u0000\u0000S\u0001\u0000\u0000O\u0003\u0000?G\ufffd\ufffd\ufffd
+"2026-09-13","68.183.100.120","United States","TCP","\u0016\u0003\u0000\u0000i\u0001\u0000\u0000e\u0003\u0003U\u001c\ufffd\ufffdrandom1random2random3random4\u0000\u0000\f\u0000/\u0000\n\u0000\u0013\u00009\u0000\u0004\u0000\ufffd\u0001\u0000\u00000\u0000\r\u0000
+"2026-09-13","68.183.100.120","United States","TCP","\u0000\u0000\u0000qj\ufffdn0\ufffdk\ufffd\u0003\u0002\u0001\u0005\ufffd\u0003\u0002\u0001\n\ufffd\ufffd^0\\\ufffd\u0007\u0003\u0005\u0000P\ufffd\u0000\u0010\ufffd\u0004\u001b\u0002NM\ufffd\u00170\u0015\ufffd\u0003\u0002\u0001\u0000\ufffd\u000e0\f\u001b\u0006krbtgt\u001b\u0002NM\ufffd\u0011\u0018\u000f19700101000000Z\ufffd\u0006\u0002\u0004\u001f\u001e\ufffd٨\u00170\u0015\u0002\u0001\u0012\u0002\u0001\u0011\u0002\u0001\u0010\u0002\u0001\u0017\u0002\u0001\u0001\u0002\u0001\u0003\u0002\u0001\u0002"
+"2026-09-13","68.183.100.120","United States","TCP","\u0000\u0000\u0000\ufffd\ufffdSMBr\u0000\u0000\u0000\u0000\b\u0001@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0006\u0000\u0000\u0001\u0000\u0000\ufffd\u0000\u0002PC NETWORK PROGRAM 1.0\u0000\u0002MICROSOFT NETWORKS 1.03\u0000\u0002MICROSOFT NETWORKS 3.0\u0000\u0002LANMAN1.0\u0000\u0002LM1.2X002\u0000\u0002Samba\u0000\u0002NT LANMAN 1.0\u0000\u0002NT LM 0.12\u0000"
+"2026-09-13","68.183.100.120","United States","TCP","l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+"2026-09-13","68.183.100.120","United States","TCP","OPTIONS sip:nm SIP/2.0\r\nVia: SIP/2.0/TCP nm;branch=foo\r\nFrom: \u003csip:nm@nm\u003e;tag=root\r\nTo: \u003csip:nm2@nm2\u003e\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nMax-Forwards: 70\r\nContent-Length: 0\r\nContact: \u003csip:nm@nm\u003e\r\nAccept: application/sdp\r\n\r\n"
+"2026-09-13","167.99.149.178","United States","TCP","GET /v2/_catalog HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","167.99.149.178","United States","TCP","GET /cgi-bin/authLogin.cgi HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","134.209.78.7","United States","TCP","GET /solr/admin/info/system HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","68.183.112.48","United States","TCP","\u0016\u0003\u0001\u0000\ufffd\u0001\u0000\u0000\ufffd\u0003\u0003X\ufffd?\ufffd\u00037ި\ufffd\ufffd\ufffd\ufffd\ufffd3\ufffdՌ5\ufffd\u0005\u0019؜\ufffdv\ufffd]\u001d:\u0005s\ufffd \ufffd1\u0016\u003c\ufffd\ufffd\ufffd\ufffd`\ufffd@\u0015\ufffdtX\ufffd \ufffd\ufffd\u0013y\ufffd\u0019\ufffd\ufffdۚb\ufffd\u003eC9\u0000\u0026\ufffd+\ufffd/\ufffd
+"2026-09-13","167.99.149.178","United States","TCP","GET /query?q=SHOW+DIAGNOSTICS HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","68.183.112.48","United States","TCP","GET / HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Mozilla/5.0 (compatible; Odin; https://docs.getodin.com/)\r\nAccept: */*\r\nAccept-Encoding: gzip\r\n\r\n"
+"2026-09-13","68.183.112.48","United States","TCP","\u0016\u0003\u0001\u0001$\u0001\u0000\u0001 \u0003\u0003\ufffd\u0019+\u0016B\u0002GF\ufffd\ufffd\u001d\ufffdڋ\u0019S\ufffd\u001c\ufffdX\ufffd\ufffdZ֕\ufffd\ufffd\u000bͯc\ufffd \u0011X\ufffd\ufffdK\ufffdc]\u0014\ufffd\ufffdU\ufffd(A\ufffdQ\ufffd`Sv\ufffd\ufffd\ufffd\u0026\ufffd\ufffd16S\ufffd\ufffd\u0000\u003e\u0013\u0002\u0013\u0003\u0013\u0001\ufffd
+"2026-09-13","167.99.149.178","United States","TCP","GET /v2/_catalog HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","167.99.149.178","United States","TCP","GET /cgi-bin/authLogin.cgi HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","167.99.149.178","United States","TCP","GET /query?q=SHOW+DIAGNOSTICS HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","134.209.78.7","United States","TCP","GET /solr/admin/info/system HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","68.183.112.48","United States","TCP","\u0016\u0003\u0001\u0000\ufffd\u0001\u0000\u0000\ufffd\u0003\u0003[\ufffd
+"2026-09-13","68.183.112.48","United States","TCP","\u0016\u0003\u0001\u0000\ufffd\u0001\u0000\u0000\ufffd\u0003\u0003\ufffd\ufffd-\ufffd0\ufffdH\ufffd7\ufffdǟƢ\ufffd?\ufffd]З\u0001\ufffd\ufffd\ufffd\ufffd\u001b4\ufffd$:\ufffd\ufffd\u0000\u0000P\ufffd/\ufffd+\ufffd\u0011\ufffd\u0007\ufffd\u0013\ufffd\t\ufffd\u0014\ufffd\n\u0000\u0005\u0000/\u00005\ufffd\u0012\u0000\n\ufffd$\ufffd#\ufffd\b\u0000\ufffd\u0000\ufffd\u0000\ufffd\ufffd(\ufffd'̨̩̪\u0000k\u0000g\u00009\u00003\u0000\u0016\u0000=\u0000\u003c\u0000\u0004\u0000\u0014\u0000\ufffd\u0000\u0015\ufffd
+"2026-09-13","167.99.149.178","United States","TCP","GET /v2/_catalog HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","167.99.149.178","United States","TCP","GET /query?q=SHOW+DIAGNOSTICS HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","167.99.149.178","United States","TCP","GET /cgi-bin/authLogin.cgi HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","134.209.78.7","United States","TCP","GET /solr/admin/info/system HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","134.209.78.7","United States","TCP","GET /solr/admin/cores?action=STATUS\u0026wt=json HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","134.209.78.7","United States","TCP","GET /solr/admin/cores?action=STATUS\u0026wt=json HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","134.209.78.7","United States","TCP","GET /solr/admin/cores?action=STATUS\u0026wt=json HTTP/1.1\r\nHost: 107.173.168.135:3306\r\nUser-Agent: Go-http-client/1.1\r\nConnection: close\r\n\r\n"
+"2026-09-13","4.148.17.174","United States","TCP","\r\n"
+"2026-09-13","20.65.202.81","United States","TCP","MGLNDD_107.173.168.135_3306\n"
